@@ -319,8 +319,9 @@ footer .container nav ul li a {
    line-height: normal;
 }
 
-footer .container nav .ikonka {
+footer .container nav .ikonka i{
    color: #FFF;
+   font-size: 50px;
 }
 
 /* footer */
